@@ -1,3 +1,4 @@
+# Hi, I'm Ender Demirel, PhD
 I study on the development of computational models for the CFD simulation of engineering problems with parallel computing on HPC. 
 # Personal and community Projects
 - Development of an implicitly coupled density based solver for the simulation of high speed flows over aircrafts. 
